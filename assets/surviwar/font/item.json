@@ -1,0 +1,121 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "surviwar:font/item/title2.png",
+      "ascent": 64,
+      "height": 64,
+      "chars": [
+        "\uE000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "surviwar:font/item/icon.png",
+      "ascent": 64,
+      "height": 64,
+      "chars": [
+        "\uE001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "surviwar:item/yes.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE002"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "surviwar:item/no.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "surviwar:item/warning_tape.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE004"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "surviwar:item/notice.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE005"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "surviwar:item/question.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE006"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "surviwar:item/modrinth.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE008"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "surviwar:item/github.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE009"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "surviwar:item/issue.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE010"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "surviwar:item/info.png",
+      "ascent": 48,
+      "height": 48,
+      "chars": [
+        "\uE011"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "surviwar:font/item/team_notice.png",
+      "ascent": 64,
+      "height": 64,
+      "chars": [
+        "\uE007"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "surviwar:font/item/gamestart.bak.png",
+      "ascent": 16,
+      "height": 16,
+      "chars": [
+        "\uE012"
+      ]
+    }
+  ]
+}
