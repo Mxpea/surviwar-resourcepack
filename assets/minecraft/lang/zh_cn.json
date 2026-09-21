@@ -65,7 +65,7 @@
     "sw.tutorial.dialog.7": "然后武装自己!",
     "sw.tutorial.dialog.8": "时间一到，你们将会被传送到竞技场",
     "sw.tutorial.dialog.9": "之后开启PVP!",
-    "sw.tutorial.dialog.10": "你们有3分钟时间对战",
+    "sw.tutorial.dialog.10": "你们有5分钟时间对战",
     "sw.tutorial.dialog.11": "存活到最后的队伍将会获胜",
     "sw.tutorial.dialog.12": "总之...理解成大型战墙就好了",
     "sw.tutorial.dialog.13": "因为程序等都是由我一个人开发的...",
@@ -90,6 +90,10 @@
     "sw.bossbar.start.time": "开始游戏倒计时:  ",
     "sw.bossbar.start.loading": "加载中",
     "sw.bossbar.gaming.time": "游戏时间剩余:  ",
+    
+    "sw.title.endgame.title":"游戏结束",
+    "sw.title.endgame.subtitle":"是胜利者！",
+    "sw.title.endgame.subtitle.draw":"都活了下来，平局！",
 
     "sw.actionbar.spectator": "你当前处于旁观者模式，请等待游戏结束，按下数字键可以传送至玩家"
 }

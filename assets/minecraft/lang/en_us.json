@@ -65,7 +65,7 @@
     "sw.tutorial.dialog.7": "Then gear up!",
     "sw.tutorial.dialog.8": "When time is up, you will be teleported to the arena.",
     "sw.tutorial.dialog.9": "Then PvP begins!",
-    "sw.tutorial.dialog.10": "You will have 3 minutes to fight.",
+    "sw.tutorial.dialog.10": "You will have 5 minutes to fight.",
     "sw.tutorial.dialog.11": "The last team standing wins.",
     "sw.tutorial.dialog.12": "In short... think of it as a large-scale Walls game.",
     "sw.tutorial.dialog.13": "Since I developed all the programming myself...",
@@ -83,6 +83,17 @@
     "sw.info.msg.2.gap": "             ",
     "sw.info.msg.3.gap": "              ",
     "sw.info.msg.4.gap": "           ",
+
+    "sw.bossbar.lobby.ready": "Players ready: ",
+    "sw.bossbar.lobby.warning.player": "At least two players are required to start the game",
+    "sw.bossbar.lobby.warning.team": "At least two teams are required",
+    "sw.bossbar.start.time": "Game starts in:  ",
+    "sw.bossbar.start.loading": "Loading",
+    "sw.bossbar.gaming.time": "Time remaining:  ",
+
+    "sw.title.endgame.title": "Game Over",
+    "sw.title.endgame.subtitle": "are the winners!",
+    "sw.title.endgame.subtitle.draw": "Everyone survived. It's a draw!",
 
     "sw.actionbar.spectator": "You are currently spectating. Please wait for the game to end. Press a number key to teleport to a player."
 }
